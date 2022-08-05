@@ -1,0 +1,11 @@
+[Moldovan Wine Hopper, Level-data]
+title=Level 12
+level=12
+size=32,18
+spawn=2,13
+end=20,13
+blocks=
+h0,17,32,GROUND
+h0,16,32,GROUND
+h0,15,32,PLATFORM
+h8,7,16,PLATFORM_RED
